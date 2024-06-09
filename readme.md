@@ -16,7 +16,7 @@ The following are the natural language processing models that I have implemented
 
 1. [**Text Classification**](https://github.com/JersonGB22/TextClassification-TensorFlow): Text classification is a common NLP task that assigns a label or class to a piece of text based on its content. It is used for tasks such as sentiment analysis, spam detection, and topic categorization.
 
-2. [**Token Classification**](https://github.com/JersonGB22/TextClassification-TensorFlow): Token classification involves assigning labels to individual tokens in a sentence or sequence of text. It is commonly used for tasks such as named entity recognition, part-of-speech tagging, and syntactic chunking.
+2. [**Token Classification**](https://github.com/JersonGB22/TokenClassification-TensorFlow): Token classification involves assigning labels to individual tokens in a sentence or sequence of text. It is commonly used for tasks such as named entity recognition, part-of-speech tagging, and syntactic chunking.
 
 3. [**Question Answering**](https://github.com/JersonGB22/TextClassification-TensorFlow): Question answering models aim to generate a relevant answer given a question and context. They are used in applications such as chatbots, virtual assistants, and search engines.
 
