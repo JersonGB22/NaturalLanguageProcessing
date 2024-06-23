@@ -18,7 +18,7 @@ The following are the natural language processing models that I have implemented
 
 2. [**Token Classification**](https://github.com/JersonGB22/TokenClassification-TensorFlow): Token classification involves assigning labels to individual tokens in a sentence or sequence of text. It is commonly used for tasks such as named entity recognition, part-of-speech tagging, and syntactic chunking.
 
-3. [**Question Answering**](https://github.com/JersonGB22/TextClassification-TensorFlow): Question answering models aim to generate a relevant answer given a question and context. They are used in applications such as chatbots, virtual assistants, and search engines.
+3. [**Question Answering**](https://github.com/JersonGB22/QuestionAnswering-TensorFlow): Question answering models aim to generate a relevant answer given a question and context. They are used in applications such as chatbots, virtual assistants, and search engines.
 
 4. [**Causal Language Modeling**](https://github.com/JersonGB22/TextClassification-TensorFlow): Causal language modeling predicts the next token in a sequence of tokens, with the model only attending to tokens to the left. These models are frequently used for text generation tasks, where maintaining coherence and context is essential. GPT-2 is an example of a causal language model.
 
