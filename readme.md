@@ -20,7 +20,7 @@ The following are the natural language processing models that I have implemented
 
 3. [**Question Answering**](https://github.com/JersonGB22/QuestionAnswering-TensorFlow): Question answering models aim to generate a relevant answer given a question and context. They are used in applications such as chatbots, virtual assistants, and search engines.
 
-4. [**Causal Language Modeling**](https://github.com/JersonGB22/TextClassification-TensorFlow): Causal language modeling predicts the next token in a sequence of tokens, with the model only attending to tokens to the left. These models are frequently used for text generation tasks, where maintaining coherence and context is essential. GPT-2 is an example of a causal language model.
+4. [**Causal Language Modeling**](https://github.com/JersonGB22/CausalLanguageModeling-TensorFlow): Causal language modeling predicts the next token in a sequence of tokens, with the model only attending to tokens to the left. These models are frequently used for text generation tasks, where maintaining coherence and context is essential. GPT-2 is an example of a causal language model.
 
 5. [**Translation**](https://github.com/JersonGB22/TextClassification-TensorFlow): Translation models convert text from one language to another, enabling cross-lingual communication and content localization. They can also be used for tasks such as speech-to-text and text-to-speech conversion.
 
