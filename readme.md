@@ -24,7 +24,7 @@ The following are the natural language processing models that I have implemented
 
 5. [**Translation**](https://github.com/JersonGB22/Translation-TensorFlow): Translation models convert text from one language to another, enabling cross-lingual communication and content localization. They can also be used for tasks such as speech-to-text and text-to-speech conversion.
 
-6. [**Summarization**](https://github.com/JersonGB22/TextClassification-TensorFlow): Summarization models generate concise summaries of longer texts while retaining essential information. They are valuable for tasks such as document summarization, news article extraction, and content recommendation.
+6. [**Summarization**](https://github.com/JersonGB22/Summarization-TensorFlow): Summarization models generate concise summaries of longer texts while retaining essential information. They are valuable for tasks such as document summarization, news article extraction, and content recommendation.
 
 ## **Contributions**
 
