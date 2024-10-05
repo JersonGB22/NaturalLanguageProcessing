@@ -26,65 +26,77 @@ The following are the natural language processing models that I have implemented
 
 6. [**Summarization**](https://github.com/JersonGB22/Summarization-TensorFlow): Summarization models generate concise summaries of longer texts while retaining essential information. They are valuable for tasks such as document summarization, news article extraction, and content recommendation.
 
-## **Some Results**
+## **Some Results:**
 
 <div align="center">
   <h2><b>Text Classification</b></h2>
 
   <img src="https://raw.githubusercontent.com/JersonGB22/TextClassification-TensorFlow/refs/heads/main/images/lstm_imdb/embedding_3d.gif" style="width: 1200px;">
 
+---
   <img src="https://raw.githubusercontent.com/JersonGB22/TextClassification-TensorFlow/refs/heads/main/images/lstm_bbc/bbc_prediction.png" style="width: 1253px;">
 
+---
   <img src="https://raw.githubusercontent.com/JersonGB22/TextClassification-TensorFlow/refs/heads/main/images/bert_quora/quora_prediction.png" style="width: 1212px;">
 
 </div>
 
+---
 ---
 <div align="center">
   <h2><b>Token Classification</b></h2>
 
   <img src="https://raw.githubusercontent.com/JersonGB22/TokenClassification-TensorFlow/main/images/ner/ner_prediction_1.png" style="width: 649px;">
 
+---
   <img src="https://raw.githubusercontent.com/JersonGB22/TokenClassification-TensorFlow/main/images/pos/pos_prediction_1.png" style="width: 705px;">
 
 </div>
 
+---
 ---
 <div align="center">
   <h2><b>Question Answering</b></h2>
 
   <img src="https://raw.githubusercontent.com/JersonGB22/QuestionAnswering-TensorFlow/main/images/images_models/prediction_qa_val_2.png" style="width: 1249px;">
 
+---
   <img src="https://raw.githubusercontent.com/JersonGB22/QuestionAnswering-TensorFlow/main/images/images_models/prediction_qa_matrix.png" style="width: 1366px;">
 
 </div>
 
+---
 ---
 <div align="center">
   <h2><b>Causal Language Modeling</b></h2>
 
   <img src="https://raw.githubusercontent.com/JersonGB22/CausalLanguageModeling-TensorFlow/main/images/images_models/gen_gpt2-xl_2.png" style="width: 508px;">
 
+---
   <img src="https://raw.githubusercontent.com/JersonGB22/CausalLanguageModeling-TensorFlow/main/images/images_models/gen_gpt2_2.png" style="width: 514px;">
 
 </div>
 
+---
 ---
 <div align="center">
   <h2><b>Translation</b></h2>
 
   <img src="https://raw.githubusercontent.com/JersonGB22/Translation-TensorFlow/main/images/images_models/translation_2.png" style="width: 718px;">
 
+---
   <img src="https://raw.githubusercontent.com/JersonGB22/Translation-TensorFlow/main/images/images_models/translation_1.png" style="width: 711px;">
 
 </div>
 
+---
 ---
 <div align="center">
   <h2><b>Summarization</b></h2>
 
   <img src="https://raw.githubusercontent.com/JersonGB22/Summarization-TensorFlow/main/images/images_models/summary_3.png" style="width: 1358px;">
 
+---
   <img src="https://raw.githubusercontent.com/JersonGB22/Summarization-TensorFlow/main/images/images_models/summary_5.png" style="width: 903px;">
 
 </div>
